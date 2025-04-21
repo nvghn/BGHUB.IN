@@ -1,2 +1,2 @@
 # BGHUB.IN
-a website for every thing 
+a website for every thing
